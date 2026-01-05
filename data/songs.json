@@ -1,0 +1,140 @@
+[
+    {
+        "track": {
+            "name": "0 AI NGHĨ",
+            "duration_ms": 147272,
+            "id": "3IuxFX3kzxDRv4t9anPo43",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3IuxFX3kzxDRv4t9anPo43"
+            },
+            "artists": [
+                {
+                    "name": "Wxrdie"
+                }
+            ],
+            "album": {
+                "name": "0 AI NGHĨ",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ffbeabd7a6b240df9b086758"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "track": {
+            "name": "CẦN GÌ NÓI IU",
+            "duration_ms": 149231,
+            "id": "3oIKYROTi2wREKdnqq3yAp",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3oIKYROTi2wREKdnqq3yAp"
+            },
+            "artists": [
+                {
+                    "name": "Wxrdie"
+                }
+            ],
+            "album": {
+                "name": "CẦN GÌ NÓI IU",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0211560e01290af1ffc63565be"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "track": {
+            "name": "Tay To",
+            "duration_ms": 155272,
+            "id": "41aMYNen9G7uUbqLfV65cF",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/41aMYNen9G7uUbqLfV65cF"
+            },
+            "artists": [
+                {
+                    "name": "Rapital"
+                }
+            ],
+            "album": {
+                "name": "Tay To",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0212d1cd6726c32388ed77c402"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "track": {
+            "name": "Nói Dối",
+            "duration_ms": 174375,
+            "id": "3ET3xHCLMGd57u06A9RjJ0",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
+            },
+            "artists": [
+                {
+                    "name": "Ronboogz"
+                }
+            ],
+            "album": {
+                "name": "Nói Dối",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00001e020a3a03b518403cacec11a7ab"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "track": {
+            "name": "Chỉ Một Đêm Nữa Thôi",
+            "duration_ms": 208000,
+            "id": "28bxbqNcAuNxYDZYet6eZ7",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
+            },
+            "artists": [
+                {
+                    "name": "RPT MCK"
+                }
+            ],
+            "album": {
+                "name": "Chỉ Một Đêm Nữa Thôi",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b315e8bb7ef5e57e9a25bb0f"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "track": {
+            "name": "Đôi Môi Em Đẹp Xinh",
+            "duration_ms": 123456,
+            "id": "25IzsdO0keArQRLw9sXWZW",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/25IzsdO0keArQRLw9sXWZW"
+            },
+            "artists": [
+                {
+                    "name": "Lil Van"
+                }
+            ],
+            "album": {
+                "name": "Đôi Môi Em Đẹp Xinh",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0231d15ab26562f9fe226149b7"
+                    }
+                ]
+            }
+        }
+    }
+]

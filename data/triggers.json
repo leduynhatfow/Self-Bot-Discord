@@ -1,0 +1,10 @@
+{
+    "auto_responses": {},
+    "auto_messages": {},
+    "auto_mess_config": {
+        "active": false,
+        "mode": "message",
+        "value": 5,
+        "channel_id": null
+    }
+}
