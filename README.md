@@ -10,19 +10,6 @@ A powerful Discord selfbot with multiple automation features, AI integration, an
 Python 3.12+
 ```
 
-### Installation Steps
-
-#### 1. Clone Repository
-```bash
-git clone <your-repo-url>
-cd discord-selfbot
-```
-
-#### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
 **Required packages (`requirements.txt`):**
 ```txt
 discord.py==1.7.3
