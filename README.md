@@ -99,55 +99,7 @@ discord-selfbot/
     └── bot_status.json
 ```
 
-### How to Enable/Disable Cogs
-
-#### Method 1: Edit `main.py` (Recommended)
-
-Open `main.py` and find the `load_cogs()` function (around line 400):
-
-```python
-async def load_cogs():
-    """Load all cogs from the cogs directory."""
-    cogs_dir = "cogs"
-    
-    # Option A: Load ALL cogs automatically
-    for filename in os.listdir(cogs_dir):
-        if filename.endswith('.py') and not filename.startswith('_'):
-            cog_name = filename[:-3]
-            try:
-                bot.load_extension(f"cogs.{cog_name}")
-                logger.info(f"✅ Loaded cog: {cog_name}")
-            except Exception as e:
-                logger.error(f"❌ Failed to load cog {cog_name}: {e}")
-```
-
-**OR** replace with manual selection:
-
-```python
-async def load_cogs():
-    """Load specific cogs only."""
-    
-    # Option B: Load SPECIFIC cogs only
-    cogs_to_load = [
-        'general',      # ✅ Basic commands (KEEP)
-        'moderation',   # ✅ Moderation tools (KEEP)
-        'owo',          # ✅ OwO automation (KEEP)
-        'presence',     # ✅ Status & RPC (KEEP)
-        'reactions',    # ❌ Auto reactions (DISABLE THIS)
-        # 'utility',    # ❌ DISABLED - Comment out to disable
-        # 'voice',      # ❌ DISABLED
-        'afk',          # ✅ AFK status (KEEP)
-        'ai_responder', # ✅ AI integration (KEEP)
-        'auto_mess',    # ✅ Auto messaging (KEEP)
-    ]
-    
-    for cog_name in cogs_to_load:
-        try:
-            bot.load_extension(f"cogs.{cog_name}")
-            logger.info(f"✅ Loaded cog: {cog_name}")
-        except Exception as e:
-            logger.error(f"❌ Failed to load cog {cog_name}: {e}")
-```
+### How to Reload/unload Cogs
 
 #### Method 2: Runtime Commands (No restart needed)
 
