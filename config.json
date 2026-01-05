@@ -1,0 +1,39 @@
+{
+    "prefix": ".",
+    "token": "Token To Run",
+    
+    "token_owo": [
+        {
+            "Channel_id1": "Token1"
+        },
+        {
+            "Channel_id2": "Token2"
+        }
+    ],
+    
+    "voice_token": [
+        "Token1",
+        "Token2"
+    ],
+    "nitro_webhook": "https://discord.com/api/webhooks/...",
+    "webhooks": {
+        "farm_status": "",
+        "daily_complete": "",
+        "ban_alert": ""
+    },
+    
+    "ai_config": {
+        "gemini_keys": [
+            "Key1",
+            "Key2"
+        ],
+        "gemini_model": "gemini-2.5-flash",
+        
+        "chatgpt_keys": [
+            "_tnybucket0297"
+        ],
+        "chatgpt_api_url": "https://ai.seal.io.vn/v1/chat/completions",
+        
+        "default_provider": "gemini"
+    }
+}

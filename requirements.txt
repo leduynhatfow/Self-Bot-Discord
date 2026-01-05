@@ -1,0 +1,12 @@
+httpx
+discord.py==1.7.3
+aiohttp
+requests
+google-generativeai
+googletrans
+Pillow
+numpy
+python-dateutil
+PyNaCl
+datetime
+time
