@@ -38,9 +38,9 @@ Edit `config.json` with your settings:
     {"CHANNEL_ID_2": "TOKEN_2"}
   ],
   "webhooks": {
-    "general": "WEBHOOK_URL",
-    "owo_farm": "WEBHOOK_URL",
-    "owo_bet": "WEBHOOK_URL"
+    "farm_status": "WEBHOOK_URL",
+    "daily_complete": "WEBHOOK_URL",
+    "ban_alert": "WEBHOOK_URL"
   },
   "ai_config": {
     "gemini_keys": ["KEY1", "KEY2"],
