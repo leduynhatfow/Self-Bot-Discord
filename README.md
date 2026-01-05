@@ -668,9 +668,9 @@ What's up?
   ],
   
   "webhooks": {
-    "general": "https://discord.com/api/webhooks/.../...",
-    "owo_farm": "https://discord.com/api/webhooks/.../...",
-    "owo_bet": "https://discord.com/api/webhooks/.../...."
+    "farm_status": "",
+    "daily_complete": "",
+    "ban_alert": ""
   },
   
   "ai_config": {
