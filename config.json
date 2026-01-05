@@ -15,7 +15,6 @@
         "Token1",
         "Token2"
     ],
-    "nitro_webhook": "https://discord.com/api/webhooks/...",
     "webhooks": {
         "farm_status": "",
         "daily_complete": "",
@@ -36,4 +35,5 @@
         
         "default_provider": "gemini"
     }
+
 }
