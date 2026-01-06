@@ -15,9 +15,9 @@
         "Token"
     ],
     "webhooks": {
-        "farm_status": "https://discord.com/api/webhooks/1447523372899635354/6hgigSjZAx51gVuDa7m_3pjPsX48AEsKVqCfKEMc1m_iXDvmS0KXhdDoHDtRCKRHqKyZ",
-        "daily_complete": "https://discord.com/api/webhooks/1447523477459308574/39uP_O1uVf_v20JRY2D7Gmzen4dajE8kgdiwxoxXe0HQt0gjdws6L4VibzFwY6r5gmt3",
-        "ban_alert": "https://discord.com/api/webhooks/1447523601388666891/Q5woS6HJtGp68XeE409xLzBKlR9Pse3GKEnIuQcKLfyt2M1p1uraR0mB-gK4e-1x7vci"
+        "farm_status": "https://discord.com/api/webhooks/1447523372899635354/6",
+        "daily_complete": "https://discord.com/api/webhooks/1447523477459308574/3",
+        "ban_alert": "https://discord.com/api/webhooks/1447523601388666891/Q"
     },
     
     "ai_config": {
@@ -36,4 +36,5 @@
         "default_provider": "gemini"
     }
 }
+
 
