@@ -10,3 +10,5 @@ python-dateutil
 PyNaCl
 datetime
 time
+pystyle
+colorama
