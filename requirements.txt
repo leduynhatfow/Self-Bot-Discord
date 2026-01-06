@@ -9,4 +9,4 @@ numpy
 python-dateutil
 pystyle
 colorama
-# PyNaCl
+PyNaCl
