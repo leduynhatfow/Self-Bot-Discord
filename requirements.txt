@@ -12,3 +12,4 @@ datetime
 time
 pystyle
 colorama
+pillow
