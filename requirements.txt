@@ -1,15 +1,12 @@
-httpx
 discord.py==1.7.3
-aiohttp
+aiohttp<3.8
 requests
+httpx
 google-generativeai
-googletrans
-Pillow
+googletrans==4.0.0rc1
+pillow
 numpy
 python-dateutil
-PyNaCl
-datetime
-time
 pystyle
 colorama
-pillow
+# PyNaCl
