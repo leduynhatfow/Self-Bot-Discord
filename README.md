@@ -1,3 +1,4 @@
+# Ty Ghosty for Captcha solver owo
 # Discord Selfbot - Complete Documentation
 
 A powerful Discord selfbot with multiple automation features, AI integration, and utility commands.
